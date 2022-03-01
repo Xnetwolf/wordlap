@@ -95,7 +95,7 @@ def main():
 			if inp_2[3] == "output":
 				output = inp_2[4]
 				if inp_2[5] == "char":
-					letters = inp_2[5]
+					letters = inp_2[6]
 				else:
 					letters = ("qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890@*!#:;&_()-',.?+×÷=%/\$€£￦¥°¿¡^[]<>~`§μ¬\"Г")
 				print(f"string lenght: {lenght}")
@@ -108,7 +108,7 @@ def main():
 			if inp_2[3] == "output":
 				output = inp_2[4]
 				if inp_2[5] == "char":
-					letters = inp_2[5]
+					letters = inp_2[6]
 				else:
 					letters = ("qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890@*!#:;&_()-',.?+×÷=%/\$€£￦¥°¿¡^[]<>~`§μ¬\"Г")
 				print(f"string lenght: {lenght}")
